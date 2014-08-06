@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invalidTag>
+    <ip>182.216.25.25</ip>
+    <vm_port>8080</vm_port>
+    <server_port>8080</server_port>
+</properties>

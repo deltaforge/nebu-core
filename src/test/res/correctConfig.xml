@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <ip>192.168.2.1</ip>
+    <vm_port>8080</vm_port>
+    <server_port>1234</server_port>
+</properties>

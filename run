@@ -1,0 +1,2 @@
+mvn clean package -Dmaven.test.skip=true
+mvn exec:java -Dexec.mainClass="nl.bitbrains.nebu.App" -Dexec.args="config.xml"
